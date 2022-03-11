@@ -1,0 +1,63 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+.container {
+  color: white;
+  width: 1000px;
+  margin: auto;
+  background-color: rgba(0,0,0,0.5);
+  margin-top: 30px;
+  padding: 70px;
+  border-radius: 10px;
+}
+
+header > img {
+  display: block;
+  width: 30%;
+  margin: auto;
+}
+
+header > h1 {
+  text-align: center;
+  color: limegreen;
+}
+
+nav {
+  background-color: limegreen;
+  padding: 10px;
+  text-align: center;
+}
+
+main {
+  font-size: 17px;
+}
+.scooter > h2 {
+  display: inline-block;
+}
+
+.scooter > p {
+    margin-bottom: 3px;
+    margin-top: 5px;
+}
+
+.battery {
+    height: 25px;
+    border-radius: 5px;
+}
+
+.Gino {
+  background-color: orange;
+    width: 30%;
+}
+
+.Mike {
+  background-color: limegreen;
+  width: 50%
+}
+
+.Fede {
+  background-color: red;
+  width: 15%;
+}
